@@ -15,8 +15,6 @@ i liczbę graczy w każdym.
 Z lobby gracz może wejść do istniejącego pokoju lub utworzyć nowy.
 W każdej chwili może wrócić z pokoju do lobby.
 
-Jeśli w pokoju trwa gra, nowy gracz trafia do stanu oczekiwania i dołączy
-do kolejnej rundy po jej zakończeniu. 
 Jeśli gra nie trwa, gracz widzi listę
 osób w pokoju i czeka na start.
 
@@ -26,7 +24,7 @@ co najmniej dwóch graczy.
 Po rozpoczęciu gry każdy gracz otrzymuje własne, niezależne hasło.
 Hasła są takie same między graczami.
 
-Gracze nie widzą wzajemnie swoich liter (są zastępowanie X) ale widzą
+Gracze nie widzą wzajemnie swoich liter ale widzą
 postęp wisielca każdego z pozostałych graczy.
 
 Celem gry jest jak najszybsze odgadnięcie własnego hasła.
